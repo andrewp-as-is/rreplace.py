@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-import public
+__all__ = ['rreplace']
 
 
 def _reverse(string):
@@ -8,7 +7,6 @@ def _reverse(string):
     return "".join(chars)
 
 
-@public.add
 def rreplace(string, old, new, count=None):
     """string right replace"""
     string = str(string)

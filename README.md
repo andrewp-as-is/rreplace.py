@@ -1,21 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/rreplace.svg?longCache=True)](https://pypi.org/project/rreplace/)
-[![](https://img.shields.io/pypi/v/rreplace.svg?maxAge=3600)](https://pypi.org/project/rreplace/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/rreplace.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/rreplace.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/rreplace.svg?maxAge=3600)](https://pypi.org/project/rreplace/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/rreplace.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/rreplace.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install rreplace
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`rreplace.rreplace(string, old, new, count=None)` |string right replace
 
 #### Examples
 ```python
@@ -26,5 +21,5 @@ function|`__doc__`
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
